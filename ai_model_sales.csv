@@ -1,32 +1,32 @@
 company,service_history,multiple_locations,purchase_history,equipment_service type,industry_revenue,number_of_locations,days_since_disconnect,historical_rmr,conversion
 the iris,36,0,panel + monitoring,traditional_panel,450000,1,42,89,0
 Fox and Jane - Bowery,24,1,panel + cameras + monitoring,smart_panel,1200000,3,15,245,1
-Little Lion Salon,18,0,panel only,traditional_panel,180000,1,120,65,1
-Little Lion Salon - 4th Ave,48,1,panel + cameras + monitoring + fire,smart_panel,2800000,5,30,425,0
-Little Lion Salon - 537 Grand,12,0,panel + monitoring,traditional_panel,320000,1,200,75,1
-Maeve in June,60,1,panel + cameras + access_control + monitoring,smart_panel,5500000,2,8,550,0
+Little Lion Salon,18,0,panel only,traditional_panel,180000,1,120,65,0
+Little Lion Salon - 4th Ave,48,1,panel + cameras + monitoring + fire,smart_panel,2800000,5,30,425,1
+Little Lion Salon - 537 Grand,12,0,panel + monitoring,traditional_panel,320000,1,200,75,0
+Maeve in June,60,1,panel + cameras + access_control + monitoring,smart_panel,5500000,2,8,550,1
 tap nyc,6,0,panel only,traditional_panel,280000,1,365,55,0
-Walk In GYN Care,42,0,panel + cameras + monitoring,smart_panel,950000,1,55,175,0
-jones road beauty,30,1,panel + cameras + monitoring + fire,smart_panel,3200000,4,22,380,0
-pink chicken,9,0,none,none,150000,1,500,0,1
+Walk In GYN Care,42,0,panel + cameras + monitoring,smart_panel,950000,1,55,175,1
+jones road beauty,30,1,panel + cameras + monitoring + fire,smart_panel,3200000,4,22,380,1
+pink chicken,9,0,none,none,150000,1,500,0,0
 los angeles collective,34,0,panel + monitoring,smart_panel,361631,1,188,155,0
 ahlem eyewear,49,0,panel only,smart_panel,486549,1,42,153,0
-wall street wine merchants,12,0,panel only,smart_panel,788494,1,112,99,1
+wall street wine merchants,12,0,panel only,smart_panel,788494,1,112,99,0
 Our Neighborhood Place LLC,17,0,panel + cameras + monitoring,smart_panel,849459,1,123,94,0
 Anew World llc,33,0,panel + cameras + access_control + monitoring,traditional_panel,883691,1,52,72,0
 WILD FLOWER,59,0,none,none,204221,1,316,0,0
-BROADWAY GRAB N GO MART CORP.,52,1,panel + cameras + monitoring + fire,smart_panel,3934980,6,74,325,0
+BROADWAY GRAB N GO MART CORP.,52,1,panel + cameras + monitoring + fire,smart_panel,3934980,6,74,325,1
 T SUKIJI LIMITED,19,0,panel only,smart_panel,804416,1,337,193,0
-STUDIO IN A SCHOOL ASSOCIATION,46,0,panel only,smart_panel,182804,1,257,172,1
+STUDIO IN A SCHOOL ASSOCIATION,46,0,panel only,smart_panel,182804,1,257,172,0
 AN.ME,25,0,panel + monitoring,smart_panel,569661,1,470,183,0
 ZAZA SMOKE SHOP,47,0,none,none,351441,1,31,0,0
 69 PIZZERIA,54,0,panel + cameras + monitoring,smart_panel,403856,1,65,143,0
 LEAD BY EXAMPLE,18,1,panel + cameras + access_control + monitoring,traditional_panel,1390397,2,254,401,0
 THE BOILER ROOM,53,0,panel + cameras + monitoring,smart_panel,512100,1,82,118,0
 INC ANDROMEDA STUDIO 33,6,0,panel + cameras + access_control + monitoring,smart_panel,574334,1,407,117,0
-EN JAPANESE BRASSERIE,18,0,panel only,traditional_panel,718747,1,482,154,1
+EN JAPANESE BRASSERIE,18,0,panel only,traditional_panel,718747,1,482,154,0
 CONEY ISLAND AUTO PARTS,34,1,none,none,5115976,6,138,0,0
-ARACELY DELI & GRILL,23,0,panel + monitoring,traditional_panel,537448,1,32,62,1
+ARACELY DELI & GRILL,23,0,panel + monitoring,traditional_panel,537448,1,32,62,0
 HENRY STREET ALE HOUSE,28,0,panel only,smart_panel,383827,1,155,120,0
 SRGN ACADEMY,34,0,panel + cameras + monitoring + fire,smart_panel,174255,1,314,126,0
 7TH AVENUE NATURAL DELI,48,0,panel + cameras + access_control + monitoring,smart_panel,825791,1,174,134,0
@@ -35,27 +35,27 @@ AMERICAN DREAM SMOKE SHOP,42,1,panel only,traditional_panel,5127153,5,337,511,0
 SUGA & CO,21,0,panel + cameras + access_control + monitoring,smart_panel,874493,1,403,83,0
 BRB TAX HELP CENTER,9,0,panel + cameras + access_control + monitoring,smart_panel,170164,1,295,77,0
 BE ELECTRIC STUDIIOS,6,0,panel + monitoring,smart_panel,242515,1,146,60,0
-PTB WHOLESALE,54,0,none,none,401939,1,98,0,1
+PTB WHOLESALE,54,0,none,none,401939,1,98,0,0
 BAR GOTO,20,1,panel + cameras + access_control + monitoring,smart_panel,5970566,6,194,262,0
 NYC COFFEE MOCHA,13,1,panel only,traditional_panel,1903766,6,375,584,0
 OPTICS SHADES,19,0,panel + monitoring,traditional_panel,259288,1,210,127,0
-DOOL JEWELRY,36,1,panel + cameras + monitoring,smart_panel,4821735,5,176,490,0
+DOOL JEWELRY,36,1,panel + cameras + monitoring,smart_panel,4821735,5,176,490,1
 CLOUD NINE,49,0,panel + cameras + monitoring,smart_panel,550280,1,346,96,0
-KIPS BAY SMOKESHOP,33,0,panel + cameras + monitoring,smart_panel,785581,1,82,73,1
+KIPS BAY SMOKESHOP,33,0,panel + cameras + monitoring,smart_panel,785581,1,82,73,0
 HOT SPOT,52,0,panel + cameras + monitoring,smart_panel,652308,1,383,168,0
-BAREBURGER 1,43,0,panel + cameras + monitoring + fire,traditional_panel,321725,1,277,109,1
+BAREBURGER 1,43,0,panel + cameras + monitoring + fire,traditional_panel,321725,1,277,109,0
 MURRAY HILL DELI,6,0,panel + cameras + monitoring + fire,traditional_panel,720542,1,264,112,0
 ABC CONVENIENCE,41,0,panel + cameras + monitoring,smart_panel,848038,1,277,187,0
-CUTS ON 3RD BARBER SHOP,50,1,panel + cameras + monitoring + fire,smart_panel,5695132,4,165,471,0
+CUTS ON 3RD BARBER SHOP,50,1,panel + cameras + monitoring + fire,smart_panel,5695132,4,165,471,1
 LATCH SYSTEMS INC,31,1,panel + cameras + monitoring + fire,traditional_panel,1078432,6,102,588,1
-US PHARMACY,14,1,panel + monitoring,smart_panel,4286356,4,240,434,1
-US PHARMACY,39,0,panel + monitoring,traditional_panel,926896,1,294,80,1
+US PHARMACY,14,1,panel + monitoring,smart_panel,4286356,4,240,434,0
+US PHARMACY,39,0,panel + monitoring,traditional_panel,926896,1,294,80,0
 CONVENIENT STORE,12,0,none,none,338461,1,499,0,0
 PETER TOBY STUDIO,6,0,panel + cameras + monitoring,smart_panel,522111,1,497,137,0
-SLOPE 9 GOURMET,33,1,panel + cameras + access_control + monitoring,smart_panel,5771956,4,210,487,0
+SLOPE 9 GOURMET,33,1,panel + cameras + access_control + monitoring,smart_panel,5771956,4,210,487,1
 SPIKED SPIN,35,0,panel + cameras + monitoring,smart_panel,874599,1,449,66,0
 NOY LLC,8,1,panel only,traditional_panel,1533562,4,178,408,0
-DAVID KILLEN GALLERY,24,0,panel + cameras + monitoring,traditional_panel,440483,1,242,135,1
+DAVID KILLEN GALLERY,24,0,panel + cameras + monitoring,traditional_panel,440483,1,242,135,0
 AVENUE X PRIMARY MEDICAL,39,1,panel + monitoring,traditional_panel,4654379,3,398,592,0
 FADED RAINBOW LLC,56,1,panel + cameras + monitoring,traditional_panel,4254095,2,271,423,0
 UPPERZ CAFE & BAR,24,0,panel + cameras + access_control + monitoring,smart_panel,296369,1,87,76,0
@@ -65,65 +65,65 @@ NYU CONVIENCE,60,1,panel + cameras + monitoring + fire,smart_panel,2003317,5,53,
 INEFFBALE CARE,52,0,panel + monitoring,traditional_panel,180436,1,381,115,0
 PIGGY BACK BAR,56,0,panel only,traditional_panel,483390,1,235,54,0
 NICE GUYS CONVENIENCE,10,0,panel + monitoring,smart_panel,952478,1,335,101,0
-STEVES CONVENIENCE & SMOKE,52,0,panel + cameras + monitoring + fire,smart_panel,889944,1,6,143,0
+STEVES CONVENIENCE & SMOKE,52,0,panel + cameras + monitoring + fire,smart_panel,889944,1,6,143,1
 LAFLEUR CAFE,6,0,panel + cameras + monitoring,smart_panel,930726,1,467,197,0
 CJ18 CORP.,24,1,panel + cameras + monitoring + fire,smart_panel,3599539,4,235,470,1
 BELA BEAUTY,23,0,panel + cameras + monitoring,smart_panel,416332,1,219,54,0
-CHAMPION CONVENIENCE STORE,33,1,panel + cameras + monitoring + fire,smart_panel,5732540,6,380,384,0
-189 REALTY CORP,48,1,panel + cameras + access_control + monitoring,smart_panel,5176321,4,99,459,0
+CHAMPION CONVENIENCE STORE,33,1,panel + cameras + monitoring + fire,smart_panel,5732540,6,380,384,1
+189 REALTY CORP,48,1,panel + cameras + access_control + monitoring,smart_panel,5176321,4,99,459,1
 HIGH END CORP,18,0,panel + monitoring,smart_panel,400419,1,118,118,0
 L.A CAFETERIA,29,0,none,none,843557,1,15,0,0
 MITSUBISHI BODY SHOP,35,0,panel + monitoring,smart_panel,725042,1,360,122,0
 KISS ME SMOKE SHOP,50,0,panel + cameras + monitoring,smart_panel,171649,1,89,80,0
 EAST SIDE MARKET PLACE,57,0,panel + cameras + access_control + monitoring,traditional_panel,484048,1,306,69,0
-4AVE RIDGE PHARMA CORP,11,1,panel only,smart_panel,3025128,5,152,384,1
+4AVE RIDGE PHARMA CORP,11,1,panel only,smart_panel,3025128,5,152,384,0
 IHS SERVICES INC,59,0,none,none,620370,1,389,0,0
 HIGGINS REALTY GROUP,57,0,panel + cameras + monitoring,traditional_panel,448856,1,396,110,0
-VERAS RESTAURANT HOLDINGS,42,0,panel + cameras + monitoring,traditional_panel,638576,1,43,104,1
-SUGA & CO,36,1,panel + cameras + monitoring,traditional_panel,2484132,6,88,399,0
-CARDS & COFFEE NYC,42,1,panel + cameras + monitoring + fire,traditional_panel,4521436,3,195,438,0
+VERAS RESTAURANT HOLDINGS,42,0,panel + cameras + monitoring,traditional_panel,638576,1,43,104,0
+SUGA & CO,36,1,panel + cameras + monitoring,traditional_panel,2484132,6,88,399,1
+CARDS & COFFEE NYC,42,1,panel + cameras + monitoring + fire,traditional_panel,4521436,3,195,438,1
 L1C CORP,60,0,panel + cameras + monitoring + fire,traditional_panel,492810,1,428,69,0
 EDGAR JEWELRY,51,0,panel + cameras + access_control + monitoring,traditional_panel,446931,1,481,168,0
 SPECIALIZED EYE CARE OF BAY RI,50,0,panel + cameras + monitoring + fire,traditional_panel,201464,1,489,177,0
-GREAT SUCCESS REALTY,15,0,panel + monitoring,traditional_panel,424280,1,347,87,1
+GREAT SUCCESS REALTY,15,0,panel + monitoring,traditional_panel,424280,1,347,87,0
 ONE LOVE GROCERY,25,0,panel + cameras + monitoring,traditional_panel,606034,1,495,65,0
-LITTLE SENEGAL INC.,33,0,none,none,696505,1,163,0,1
+LITTLE SENEGAL INC.,33,0,none,none,696505,1,163,0,0
 A&H NEWSSTAND 1CORP,8,0,panel only,smart_panel,324917,1,472,149,0
 SLICE N SPICE,23,0,panel only,traditional_panel,172239,1,500,170,0
 101 CONVENIENCE STORE,29,0,panel + monitoring,traditional_panel,619802,1,23,182,1
 SOLOMON BLUM HEYMANN,45,1,panel + cameras + monitoring,traditional_panel,3667713,2,157,400,0
-THE VALLEI DELI,42,0,panel + cameras + access_control + monitoring,traditional_panel,734939,1,153,166,1
+THE VALLEI DELI,42,0,panel + cameras + access_control + monitoring,traditional_panel,734939,1,153,166,0
 ROSETTA WINES 1302,59,0,panel + cameras + monitoring,traditional_panel,290225,1,49,165,0
 DISPENSARY CIGARS,56,0,panel + cameras + access_control + monitoring,traditional_panel,503635,1,359,156,0
-DREAMLAND DELI,30,0,none,none,614632,1,196,0,1
-SPOOKS VILLA,51,0,panel + cameras + monitoring + fire,smart_panel,923383,1,102,61,1
-GOETHE - INSTITUT NY,11,1,panel + cameras + access_control + monitoring,smart_panel,3400158,3,158,373,0
-RO NEW YORK,21,0,panel + monitoring,traditional_panel,684450,1,343,92,1
-PIG AND KHAO,20,1,none,none,3797960,4,346,0,1
+DREAMLAND DELI,30,0,none,none,614632,1,196,0,0
+SPOOKS VILLA,51,0,panel + cameras + monitoring + fire,smart_panel,923383,1,102,61,0
+GOETHE - INSTITUT NY,11,1,panel + cameras + access_control + monitoring,smart_panel,3400158,3,158,373,1
+RO NEW YORK,21,0,panel + monitoring,traditional_panel,684450,1,343,92,0
+PIG AND KHAO,20,1,none,none,3797960,4,346,0,0
 189 REALTY CORP,13,0,panel + cameras + monitoring,traditional_panel,460404,1,459,64,0
 BJ GROCERY AND DELI CORP,41,1,panel only,smart_panel,3360634,2,222,369,0
 UNITED IN CHRISTIPHER,32,0,panel only,smart_panel,300403,1,286,192,0
 BLESSED COUTRUE INC.,55,0,panel + monitoring,smart_panel,700970,1,195,123,0
-NORTH STAR MARKET,22,1,panel + cameras + monitoring + fire,smart_panel,2540159,6,279,570,0
+NORTH STAR MARKET,22,1,panel + cameras + monitoring + fire,smart_panel,2540159,6,279,570,1
 NORTH STAR MARKET,7,0,panel + monitoring,smart_panel,694991,1,310,191,0
-FREE LOVE LUXURY NYC,18,0,panel + monitoring,traditional_panel,201972,1,56,198,1
+FREE LOVE LUXURY NYC,18,0,panel + monitoring,traditional_panel,201972,1,56,198,0
 RELIGION STUDIO,20,0,panel + monitoring,traditional_panel,601941,1,234,90,0
 KAREN NILO BEAUTIES,26,1,panel + cameras + monitoring,smart_panel,1326262,6,185,530,0
 LA COCINA DE LUZ DELI,60,0,panel + cameras + monitoring + fire,smart_panel,896857,1,313,60,0
 BROOKLYN ARTS COUNCIL,26,0,panel + cameras + monitoring,traditional_panel,201294,1,297,80,0
 DOOB USA,6,0,panel + monitoring,smart_panel,666007,1,148,103,0
-RELIGION STUDIO,42,0,panel only,traditional_panel,948045,1,280,135,1
+RELIGION STUDIO,42,0,panel only,traditional_panel,948045,1,280,135,0
 GALLERY EL DORADO,54,1,panel + cameras + monitoring,traditional_panel,2912688,6,394,279,0
-ROCCO PIZZA,7,1,panel + cameras + access_control + monitoring,traditional_panel,5402915,3,56,461,0
+ROCCO PIZZA,7,1,panel + cameras + access_control + monitoring,traditional_panel,5402915,3,56,461,1
 KHAN ACCOUNTING SOLUTIO,31,0,panel + cameras + access_control + monitoring,traditional_panel,975062,1,354,87,0
 CJ18 CORP.,6,0,panel + cameras + monitoring,traditional_panel,367929,1,26,171,0
 PARA JUMPERS,23,1,panel + cameras + monitoring,traditional_panel,5411076,3,329,578,0
-PARA JUMPERS,59,1,none,none,5442139,6,183,0,1
-DELI 200 ALBANY CORP,37,1,panel + cameras + access_control + monitoring,smart_panel,2296589,3,215,435,0
+PARA JUMPERS,59,1,none,none,5442139,6,183,0,0
+DELI 200 ALBANY CORP,37,1,panel + cameras + access_control + monitoring,smart_panel,2296589,3,215,435,1
 PRESSED STUDIO,17,1,panel + cameras + access_control + monitoring,smart_panel,4387598,2,339,268,0
-PARA JUMPERS,52,0,panel + cameras + monitoring,traditional_panel,828845,1,9,73,0
+PARA JUMPERS,52,0,panel + cameras + monitoring,traditional_panel,828845,1,9,73,1
 PARA JUMPERS,45,0,panel + cameras + monitoring,traditional_panel,172634,1,107,197,0
-SABRINAS PLAY STUDIO,45,1,panel + cameras + access_control + monitoring,smart_panel,3673787,6,26,466,0
+SABRINAS PLAY STUDIO,45,1,panel + cameras + access_control + monitoring,smart_panel,3673787,6,26,466,1
 AVE INDIA DESIGN COLLECTIVE,58,0,none,none,489518,1,73,0,0
 NEW CARRIZAL,45,0,panel only,smart_panel,299540,1,359,167,0
 185 MALTA CAR SERVICE,23,0,panel + monitoring,smart_panel,976668,1,384,183,0
@@ -138,50 +138,50 @@ TRIPLE Z POSTAL INC,41,0,none,none,795532,1,285,0,0
 BOBS DELI & GRILL,45,0,panel + cameras + monitoring + fire,smart_panel,444537,1,412,112,0
 58TH DELI GROCERY,15,0,panel only,traditional_panel,472267,1,213,66,0
 THE QUETZALITO,38,1,none,none,1130764,2,320,0,0
-718 AUTO PERFORMANCE,44,1,panel + cameras + monitoring,traditional_panel,5360118,2,181,562,1
+718 AUTO PERFORMANCE,44,1,panel + cameras + monitoring,traditional_panel,5360118,2,181,562,0
 THE LONDON MEAT COMPANY,26,1,panel + cameras + monitoring,traditional_panel,5724307,3,331,521,0
-NYDIS,22,1,panel + cameras + access_control + monitoring,smart_panel,5373530,4,130,343,0
+NYDIS,22,1,panel + cameras + access_control + monitoring,smart_panel,5373530,4,130,343,1
 B ELECTRIC,57,0,panel + cameras + access_control + monitoring,smart_panel,512864,1,234,153,0
 BETHEL UNITED CHURCH,14,0,panel + monitoring,smart_panel,715263,1,347,119,0
 BIENCURLS,28,1,none,none,4414493,4,92,0,0
-THE LONDON MEAT COMPANY,60,0,panel + cameras + monitoring,smart_panel,728280,1,14,146,0
+THE LONDON MEAT COMPANY,60,0,panel + cameras + monitoring,smart_panel,728280,1,14,146,1
 BOHEMIEN,31,0,none,none,948183,1,478,0,0
 JUICING WITH BLOOD LLC,37,0,panel only,smart_panel,398807,1,259,129,0
 TOWER DRUGS PHARMACY,40,0,panel only,traditional_panel,506816,1,388,93,0
 GRILL DELI CORP,32,0,none,none,485504,1,33,0,0
-SKY HIGH EXOTIC,14,0,panel + monitoring,traditional_panel,262675,1,245,63,1
-UTOPIA CRAZE,12,0,panel + cameras + access_control + monitoring,traditional_panel,528425,1,23,176,0
-TAMGY,25,0,panel only,traditional_panel,717196,1,427,131,1
+SKY HIGH EXOTIC,14,0,panel + monitoring,traditional_panel,262675,1,245,63,0
+UTOPIA CRAZE,12,0,panel + cameras + access_control + monitoring,traditional_panel,528425,1,23,176,1
+TAMGY,25,0,panel only,traditional_panel,717196,1,427,131,0
 ONE LOVE SMOKE SHOP EXPRESS,55,0,none,none,720814,1,106,0,0
 EVOLUTIONIQ,19,0,panel only,smart_panel,161477,1,487,57,0
 PAR EXELLENCE,9,0,panel only,traditional_panel,710649,1,162,93,0
-WHEN ITS CHILE ITS HOT,44,1,panel + cameras + monitoring,traditional_panel,1115954,5,169,289,0
+WHEN ITS CHILE ITS HOT,44,1,panel + cameras + monitoring,traditional_panel,1115954,5,169,289,1
 A&M MULTISERVICES,26,0,panel only,traditional_panel,604954,1,23,60,0
 MR FIX 1 INC,18,0,panel + cameras + access_control + monitoring,traditional_panel,170321,1,171,82,0
 BOROUGH PARK VIBES,15,0,panel only,smart_panel,728787,1,32,83,0
 PAR EXELLENCE,25,0,panel + cameras + monitoring,smart_panel,657404,1,368,120,0
 RAS PLANT BASED LLC,6,0,panel + cameras + access_control + monitoring,traditional_panel,591709,1,345,59,0
-QUEENS CONVENIENT & GIFT SHOP,14,0,panel only,traditional_panel,715171,1,68,76,1
-KINDU TRUCK,28,0,panel only,smart_panel,389356,1,292,106,1
+QUEENS CONVENIENT & GIFT SHOP,14,0,panel only,traditional_panel,715171,1,68,76,0
+KINDU TRUCK,28,0,panel only,smart_panel,389356,1,292,106,0
 RAS PLANT BASED LLC,44,0,none,none,906264,1,50,0,0
-HALIMA SHOP,38,0,panel + cameras + access_control + monitoring,smart_panel,349589,1,164,110,1
-CHERISHED ARRANGEMENTS,53,0,panel + cameras + monitoring,smart_panel,643364,1,154,118,1
+HALIMA SHOP,38,0,panel + cameras + access_control + monitoring,smart_panel,349589,1,164,110,0
+CHERISHED ARRANGEMENTS,53,0,panel + cameras + monitoring,smart_panel,643364,1,154,118,0
 K M R INFORMATION SYSTE,6,1,panel + cameras + access_control + monitoring,traditional_panel,5604991,2,306,454,1
-HIGH CLASS CIGAR CORP,45,0,none,none,592898,1,128,0,1
-SPRAY PLANET USA INC,17,0,panel + cameras + access_control + monitoring,traditional_panel,480317,1,272,169,1
+HIGH CLASS CIGAR CORP,45,0,none,none,592898,1,128,0,0
+SPRAY PLANET USA INC,17,0,panel + cameras + access_control + monitoring,traditional_panel,480317,1,272,169,0
 THATS OD LLC,15,0,panel + cameras + monitoring,traditional_panel,997888,1,87,143,0
-RESTOCKED,55,0,panel + cameras + access_control + monitoring,smart_panel,594477,1,316,124,1
-NEXT JUMP,24,0,panel + cameras + access_control + monitoring,traditional_panel,573858,1,472,51,1
+RESTOCKED,55,0,panel + cameras + access_control + monitoring,smart_panel,594477,1,316,124,0
+NEXT JUMP,24,0,panel + cameras + access_control + monitoring,traditional_panel,573858,1,472,51,0
 BROADWAY CONVINIENCE,32,0,panel only,smart_panel,556720,1,155,51,0
 UPPER GLENDALE CONVENIENCE INC,26,0,panel + cameras + monitoring,traditional_panel,169112,1,122,94,0
-GREEN OLIVE CORP.,48,0,none,none,335316,1,412,0,1
-TRINITY LUTHERAN CHURCH,26,0,panel only,traditional_panel,364199,1,195,92,1
+GREEN OLIVE CORP.,48,0,none,none,335316,1,412,0,0
+TRINITY LUTHERAN CHURCH,26,0,panel only,traditional_panel,364199,1,195,92,0
 RICHARD WU RESTAURANT,38,0,none,none,336126,1,347,0,0
 SHAKESPEARE AND COMPANY,60,0,panel + cameras + monitoring + fire,smart_panel,339697,1,358,69,0
 BUTTERMELT CHANNEL,45,0,none,none,598269,1,476,0,0
-KI SMITH GALLERY,17,1,panel + cameras + monitoring + fire,smart_panel,4244682,5,113,429,0
+KI SMITH GALLERY,17,1,panel + cameras + monitoring + fire,smart_panel,4244682,5,113,429,1
 LOVE STORY CONVENIENCE,11,0,none,none,494464,1,118,0,0
-CARDS & COFFEE NYC,41,1,panel + monitoring,smart_panel,1702860,5,27,294,0
+CARDS & COFFEE NYC,41,1,panel + monitoring,smart_panel,1702860,5,27,294,1
 ELEMENT PHARMACY,58,0,panel + cameras + access_control + monitoring,smart_panel,359675,1,490,200,0
 MILK AND COOKIES,58,0,panel + cameras + access_control + monitoring,traditional_panel,616826,1,105,105,0
 NEW UTRECHT PHARMACY,12,1,panel + cameras + monitoring,traditional_panel,802744,6,189,500,0
@@ -197,10 +197,10 @@ ALL IN ONE PHARMACY,26,0,panel only,smart_panel,385379,1,478,174,0
 THE VALLEI DELI,25,0,panel + cameras + monitoring + fire,smart_panel,224664,1,339,109,0
 RELEASE RECOVERY,53,0,panel + cameras + monitoring + fire,smart_panel,640512,1,497,118,0
 BDSJ TECH INC,49,0,panel + cameras + monitoring + fire,smart_panel,754330,1,163,63,0
-REALTY LLC,60,0,panel only,traditional_panel,596526,1,35,136,1
+REALTY LLC,60,0,panel only,traditional_panel,596526,1,35,136,0
 SANDZ CAFE,18,0,panel + cameras + monitoring,traditional_panel,412621,1,374,83,0
 SANDZ CAFE,52,1,none,none,4919515,2,493,0,0
-JANSUI,15,0,panel + cameras + monitoring,smart_panel,699531,1,385,98,1
+JANSUI,15,0,panel + cameras + monitoring,smart_panel,699531,1,385,98,0
 E. K. SILVERSMITH LLC,46,0,panel + cameras + monitoring + fire,smart_panel,200312,1,287,132,0
 E. K. SILVERSMITH LLC,44,0,none,none,192943,1,240,0,0
 RADIANT CHURCH,17,1,panel only,traditional_panel,2138590,4,170,452,0
@@ -208,27 +208,27 @@ RADIANT CHURCH #N/A,8,1,panel + cameras + monitoring,smart_panel,3664116,2,261,4
 SAM PUFF 2,35,1,panel + cameras + monitoring + fire,smart_panel,4883195,2,252,459,1
 DAHT WORLD,13,0,none,none,540236,1,395,0,0
 MANAGEMENT & TRAINING CORPORATION,58,0,panel + cameras + monitoring + fire,smart_panel,563231,1,341,116,0
-GAS PAC EXOTICS,38,0,panel + cameras + monitoring + fire,traditional_panel,353480,1,92,61,0
+GAS PAC EXOTICS,38,0,panel + cameras + monitoring + fire,traditional_panel,353480,1,92,61,1
 HARLEM HOUSE OF CHAMPIONS,48,0,panel + cameras + monitoring,smart_panel,379345,1,298,159,0
-HAPPY EXOTIC,45,0,panel + cameras + access_control + monitoring,smart_panel,479242,1,359,160,1
-HABOOB CONVENIENCE STORE,33,0,panel + cameras + access_control + monitoring,smart_panel,366182,1,69,108,0
+HAPPY EXOTIC,45,0,panel + cameras + access_control + monitoring,smart_panel,479242,1,359,160,0
+HABOOB CONVENIENCE STORE,33,0,panel + cameras + access_control + monitoring,smart_panel,366182,1,69,108,1
 HILLSIDE AUTO MALL,10,1,panel + monitoring,smart_panel,5506461,2,199,425,0
-JAMES LIQUOR,50,0,panel + cameras + access_control + monitoring,traditional_panel,730507,1,76,138,0
+JAMES LIQUOR,50,0,panel + cameras + access_control + monitoring,traditional_panel,730507,1,76,138,1
 HABOOB CONVENIENCE STORE,10,0,panel + cameras + access_control + monitoring,traditional_panel,918790,1,269,168,0
-STOELT PRODUCTIONS,8,0,none,none,814465,1,263,0,1
+STOELT PRODUCTIONS,8,0,none,none,814465,1,263,0,0
 MIZ MOOZ INC,10,0,none,none,286588,1,453,0,0
-STOELT PRODUCTIONS,37,0,panel + cameras + monitoring + fire,traditional_panel,529949,1,160,59,1
+STOELT PRODUCTIONS,37,0,panel + cameras + monitoring + fire,traditional_panel,529949,1,160,59,0
 305 FITNESS,15,0,none,none,219317,1,295,0,0
-HASPEL WHOLESALE,22,1,panel + cameras + monitoring + fire,traditional_panel,5074774,5,373,267,0
-PROSPECT CARE PHARMACY II,17,0,panel + monitoring,smart_panel,470088,1,134,62,1
-HASPEL WHOLESALE,50,1,panel only,traditional_panel,5425158,4,142,425,0
+HASPEL WHOLESALE,22,1,panel + cameras + monitoring + fire,traditional_panel,5074774,5,373,267,1
+PROSPECT CARE PHARMACY II,17,0,panel + monitoring,smart_panel,470088,1,134,62,0
+HASPEL WHOLESALE,50,1,panel only,traditional_panel,5425158,4,142,425,1
 VERIZON,12,0,panel + monitoring,traditional_panel,658729,1,245,101,0
 DEBA HAPPY TAILS,57,0,panel + cameras + access_control + monitoring,smart_panel,425922,1,412,174,0
 METAL WORKS,13,0,panel + cameras + monitoring + fire,traditional_panel,424098,1,417,120,0
 101 CONVENIENCE STORE,20,0,none,none,978145,1,276,0,0
 WAREHOUSE IN BROOKLYN,37,1,panel + cameras + monitoring,traditional_panel,5350018,2,212,236,0
 KAPP KAPP,48,0,panel + monitoring,smart_panel,387936,1,169,155,0
-BROOKLYN BLEND,50,0,panel only,traditional_panel,967543,1,15,123,0
+BROOKLYN BLEND,50,0,panel only,traditional_panel,967543,1,15,123,1
 CUE OFF THIRD,33,0,none,none,873697,1,408,0,0
 HUDSON GREEN CRAFT,12,0,panel + cameras + monitoring + fire,traditional_panel,264061,1,442,159,0
 CHRISTOPHER MUNCH,14,0,panel + cameras + monitoring + fire,traditional_panel,529853,1,89,137,0
@@ -244,34 +244,34 @@ EPIPHANY MAR THOMA CHURCH,11,0,none,none,600878,1,235,0,0
 EPIPHANY MAR THOMA CHURCH INC,44,0,panel + cameras + access_control + monitoring,smart_panel,634595,1,61,113,1
 GERMAN DONAR,14,0,panel only,traditional_panel,615999,1,344,73,0
 BAY CANDY,13,0,panel only,traditional_panel,509341,1,458,154,0
-EPIPHANY MAR THOMA CHURCH,24,0,panel + cameras + monitoring + fire,traditional_panel,929406,1,240,196,1
+EPIPHANY MAR THOMA CHURCH,24,0,panel + cameras + monitoring + fire,traditional_panel,929406,1,240,196,0
 EPIPHANY MAR THOMA CHURCH INC,19,0,panel + monitoring,smart_panel,581814,1,398,88,0
 EPIPHANY MAR THOMA CHURCH,43,0,panel only,smart_panel,969050,1,6,135,0
 EPIPHANY MAR THOMA CHURCH INC,40,0,panel + cameras + access_control + monitoring,traditional_panel,936943,1,129,93,0
 SUYOU TRADING INC. - WAREHOUSE,56,0,none,none,846617,1,359,0,0
 VUARNET INC.,55,1,panel only,traditional_panel,2943808,4,480,597,0
 VUARNET INC.,42,0,panel + cameras + monitoring,traditional_panel,742555,1,474,71,0
-MEGAMART 1,26,0,panel + monitoring,smart_panel,661959,1,162,154,0
+MEGAMART 1,26,0,panel + monitoring,smart_panel,661959,1,162,154,1
 MEGAMART ',42,0,none,none,241010,1,56,0,0
 166 COVERT ST LLC,7,0,panel + cameras + monitoring + fire,traditional_panel,878005,1,41,75,0
 RANA 15,55,0,panel + cameras + monitoring + fire,traditional_panel,781360,1,466,61,0
-DURABLE HEALTH MEDICAL SUPPLY,30,1,panel only,smart_panel,2226887,2,285,392,0
+DURABLE HEALTH MEDICAL SUPPLY,30,1,panel only,smart_panel,2226887,2,285,392,1
 MAHJID OMAR BEN ABDEL-AZIZ,26,1,panel + monitoring,traditional_panel,4049996,3,362,476,0
-ABC GENESSEE LLC,48,0,panel only,traditional_panel,427508,1,197,118,1
-SWAG RACK,20,1,panel only,traditional_panel,3230378,5,15,516,0
-SIXT RENT ACAR LLC ',37,0,panel + monitoring,traditional_panel,260664,1,91,190,1
+ABC GENESSEE LLC,48,0,panel only,traditional_panel,427508,1,197,118,0
+SWAG RACK,20,1,panel only,traditional_panel,3230378,5,15,516,1
+SIXT RENT ACAR LLC ',37,0,panel + monitoring,traditional_panel,260664,1,91,190,0
 GOOD WINE NYC LLC,45,0,panel + cameras + monitoring,smart_panel,990755,1,268,83,0
-EXPRESS SHIPPING,43,0,panel + cameras + monitoring,smart_panel,682959,1,442,68,1
+EXPRESS SHIPPING,43,0,panel + cameras + monitoring,smart_panel,682959,1,442,68,0
 WEST VILLAGE FOOD CORP,33,0,none,none,790854,1,62,0,0
-GOOD WINE NYC LLC,18,1,panel + cameras + monitoring,traditional_panel,2007204,6,195,233,1
+GOOD WINE NYC LLC,18,1,panel + cameras + monitoring,traditional_panel,2007204,6,195,233,0
 PERFECT BABY SOLUTIONS,12,0,panel only,smart_panel,684401,1,182,89,0
 BROOKLYN FINEART LLC,9,0,panel + cameras + monitoring + fire,traditional_panel,720389,1,442,60,0
 MONTANA TRADING GROUP,59,0,panel + monitoring,traditional_panel,571829,1,95,179,0
 FOX FODDER FARM,39,0,panel + cameras + monitoring + fire,traditional_panel,880922,1,352,81,0
 ABC GENESSEE LLC,28,0,panel + cameras + monitoring,smart_panel,733586,1,131,171,0
-MAJOR BUILDINGS PRICE,32,1,panel + monitoring,smart_panel,4923262,3,239,557,0
+MAJOR BUILDINGS PRICE,32,1,panel + monitoring,smart_panel,4923262,3,239,557,1
 EYE CARE CENTER OF PARK SLOPE,19,0,panel + cameras + monitoring,traditional_panel,517692,1,481,54,0
-L PARKERSTEPHENSON PHOTOGRAPH,22,0,panel + cameras + access_control + monitoring,smart_panel,502320,1,97,198,1
+L PARKERSTEPHENSON PHOTOGRAPH,22,0,panel + cameras + access_control + monitoring,smart_panel,502320,1,97,198,0
 SARKHAH CONVENIENCE,10,0,panel + cameras + monitoring + fire,traditional_panel,745398,1,428,172,0
 JANET HART,22,0,panel + cameras + monitoring + fire,traditional_panel,337238,1,151,85,0
 PEORI INC,28,0,panel only,traditional_panel,260658,1,400,124,0
@@ -282,198 +282,198 @@ ALI ALNAQEEB,53,0,none,none,911591,1,159,0,0
 SOLOMON BLUM HEYMANN,58,0,panel only,traditional_panel,180260,1,279,127,0
 m5,38,0,none,none,240923,1,442,0,0
 PETER ELLIOT BLUE,24,0,panel only,traditional_panel,175416,1,415,84,0
-SMOKEZONE 2INC,57,1,panel + cameras + access_control + monitoring,smart_panel,1161814,2,96,461,0
-KASK AMERICA,12,1,panel + cameras + access_control + monitoring,traditional_panel,3375847,5,122,560,0
+SMOKEZONE 2INC,57,1,panel + cameras + access_control + monitoring,smart_panel,1161814,2,96,461,1
+KASK AMERICA,12,1,panel + cameras + access_control + monitoring,traditional_panel,3375847,5,122,560,1
 DIANA BRACHO,20,0,panel + monitoring,traditional_panel,559125,1,298,158,0
 STEPHEN DIFRANCESCO,34,1,panel + cameras + monitoring + fire,traditional_panel,5168153,2,120,276,1
 GUMERSINDO GONZALEZ-DEJESUS,16,0,none,none,455830,1,425,0,0
-TEMPLE COMMUNITY DEVELOPMENT,30,0,panel + cameras + monitoring + fire,smart_panel,915242,1,220,172,1
+TEMPLE COMMUNITY DEVELOPMENT,30,0,panel + cameras + monitoring + fire,smart_panel,915242,1,220,172,0
 OMOBUKOLA ITUA,20,1,panel + cameras + access_control + monitoring,traditional_panel,3192625,5,448,488,0
 SANDI MARCINCZYK,42,0,panel only,smart_panel,523428,1,119,52,0
 ANTHONY JACONO,25,0,panel + cameras + access_control + monitoring,traditional_panel,931256,1,289,181,0
 KATHLEEN FLEISCHMANN,45,0,panel + cameras + monitoring + fire,traditional_panel,952586,1,334,119,0
 CARMEN GOWEN,47,0,panel + monitoring,traditional_panel,821047,1,139,177,0
-DANIEL LOPES,57,0,panel + cameras + access_control + monitoring,smart_panel,592849,1,100,109,0
+DANIEL LOPES,57,0,panel + cameras + access_control + monitoring,smart_panel,592849,1,100,109,1
 JUAN MORALES,42,0,none,none,228787,1,277,0,0
 LORRAINE STEIN,36,0,panel + cameras + monitoring,smart_panel,848261,1,167,141,0
-EDWARD HINES,24,0,panel + monitoring,traditional_panel,849220,1,434,171,1
+EDWARD HINES,24,0,panel + monitoring,traditional_panel,849220,1,434,171,0
 OSCAR HERNANDEZ,13,1,panel + monitoring,smart_panel,2208488,2,409,409,0
-MICHAEL MCLAUGHLIN,34,1,panel + cameras + monitoring + fire,traditional_panel,5443031,6,378,485,0
+MICHAEL MCLAUGHLIN,34,1,panel + cameras + monitoring + fire,traditional_panel,5443031,6,378,485,1
 PALMA SERENO,30,0,panel + cameras + access_control + monitoring,traditional_panel,467190,1,229,122,0
 JOHN SINISI,27,1,panel only,traditional_panel,1003243,2,215,409,0
-TITO AREVALO,31,0,panel + cameras + monitoring + fire,traditional_panel,553779,1,29,80,0
-SERENA RUIZ,53,0,panel only,traditional_panel,952331,1,294,138,1
+TITO AREVALO,31,0,panel + cameras + monitoring + fire,traditional_panel,553779,1,29,80,1
+SERENA RUIZ,53,0,panel only,traditional_panel,952331,1,294,138,0
 SADAAN GUHA,51,0,panel + cameras + monitoring,smart_panel,546732,1,285,68,0
-STEPHANIE/JOSEPH ALMEIDA,49,0,panel + cameras + monitoring,smart_panel,823022,1,449,135,1
-RICHARD/KYLE GROSSI,43,1,panel only,traditional_panel,5794254,4,352,325,0
+STEPHANIE/JOSEPH ALMEIDA,49,0,panel + cameras + monitoring,smart_panel,823022,1,449,135,0
+RICHARD/KYLE GROSSI,43,1,panel only,traditional_panel,5794254,4,352,325,1
 MICHAEL BOULES,18,0,panel + cameras + monitoring + fire,traditional_panel,415124,1,126,134,0
-LENORE DAVIS,15,1,panel + monitoring,traditional_panel,3847464,3,75,434,0
+LENORE DAVIS,15,1,panel + monitoring,traditional_panel,3847464,3,75,434,1
 LAWRENCE/CYNTHIA MIGLIORE,59,0,panel + cameras + access_control + monitoring,smart_panel,607349,1,259,186,0
 SHONTELLE SAMPEUR,39,0,panel + cameras + access_control + monitoring,traditional_panel,215449,1,189,167,0
-CLARA REYES,56,0,none,none,168074,1,438,0,1
+CLARA REYES,56,0,none,none,168074,1,438,0,0
 GAJANAND CONVENIENCE STORE,34,0,panel + cameras + monitoring,smart_panel,849859,1,364,125,0
-SAIMER,40,0,panel + cameras + access_control + monitoring,traditional_panel,294235,1,232,133,1
+SAIMER,40,0,panel + cameras + access_control + monitoring,traditional_panel,294235,1,232,133,0
 FADED RAINBOW,19,0,none,none,358188,1,490,0,0
 FADED RAINBOW LLC,45,0,panel + cameras + monitoring + fire,smart_panel,210107,1,236,175,0
 FLEX MUSSELS KITCH,41,1,panel + cameras + access_control + monitoring,traditional_panel,1047503,2,319,552,0
 FLEX MUSSELS KITCHEN,16,0,panel + cameras + access_control + monitoring,smart_panel,716078,1,153,192,0
-FRENCH FASHION CLEANERS INC. FRENCH FASHION CLEANERS INC.,15,0,panel + cameras + access_control + monitoring,smart_panel,828002,1,432,78,1
-LUCKY FUTURE ENTERPRISES INC. LUCKY FUTURE ENTERPRISES INC.,31,0,panel + cameras + monitoring + fire,traditional_panel,569984,1,497,118,1
+FRENCH FASHION CLEANERS INC. FRENCH FASHION CLEANERS INC.,15,0,panel + cameras + access_control + monitoring,smart_panel,828002,1,432,78,0
+LUCKY FUTURE ENTERPRISES INC. LUCKY FUTURE ENTERPRISES INC.,31,0,panel + cameras + monitoring + fire,traditional_panel,569984,1,497,118,0
 BRM PHYSICAL THERAPY PLLC BRM PHYSICAL THERAPY PLLC,32,0,panel only,traditional_panel,755742,1,478,162,0
 BLUMBERG COFFEE EXPERIENCES L BLUMBERG COFFEE EXPERIENCES L,10,0,panel only,traditional_panel,759846,1,300,106,0
 SZECHUAN GARDEN,60,0,panel + cameras + monitoring,smart_panel,987477,1,313,103,0
-JSB DIGITAL LLC JSB DIGITAL LLC,19,1,panel + cameras + access_control + monitoring,traditional_panel,2354575,2,19,285,0
+JSB DIGITAL LLC JSB DIGITAL LLC,19,1,panel + cameras + access_control + monitoring,traditional_panel,2354575,2,19,285,1
 201 GOURMET DELI CORP. 201 GOURMET DELI CORP.,26,1,panel + monitoring,smart_panel,2543185,2,76,218,1
-247 WEST BROADWAY NY LLC 247 WEST BROADWAY NY LLC,14,0,panel + cameras + access_control + monitoring,smart_panel,906208,1,74,156,1
+247 WEST BROADWAY NY LLC 247 WEST BROADWAY NY LLC,14,0,panel + cameras + access_control + monitoring,smart_panel,906208,1,74,156,0
 CASCADA DENTAL SPA,52,0,none,none,776891,1,471,0,0
-FORTUNEEX LTD. FORTUNEEX LTD.,20,1,panel + monitoring,traditional_panel,4333387,2,464,366,1
+FORTUNEEX LTD. FORTUNEEX LTD.,20,1,panel + monitoring,traditional_panel,4333387,2,464,366,0
 BARRETT FAMILY HOLDINGS LLC BARRETT FAMILY HOLDINGS LLC,35,0,panel only,smart_panel,987391,1,331,114,0
-JNET NY INC. JNET NY INC.,32,1,panel + cameras + monitoring + fire,smart_panel,1234445,2,45,439,0
+JNET NY INC. JNET NY INC.,32,1,panel + cameras + monitoring + fire,smart_panel,1234445,2,45,439,1
 PKW CONSULTING CORP. PKW CONSULTING CORP.,21,0,panel + cameras + monitoring + fire,smart_panel,705886,1,493,61,0
-PARKER STEPHENSON PHOTOGRAPH,53,1,panel only,smart_panel,3624833,5,15,473,0
+PARKER STEPHENSON PHOTOGRAPH,53,1,panel only,smart_panel,3624833,5,15,473,1
 VILLE FOOD CORP. VILLE FOOD CORP.,21,1,panel + cameras + monitoring,traditional_panel,3773855,5,499,362,0
 JM WELLNESS THERAPY LCSW PLLC JM WELLNESS THERAPY LCSW PLLC,13,0,panel only,smart_panel,500304,1,149,150,0
 THE MOUTIQUE LLC THE MOUTIQUE LLC,29,1,panel + cameras + monitoring + fire,traditional_panel,5767110,4,286,438,1
 MARGARETTA LLC MARGARETTA LLC,31,0,panel + cameras + access_control + monitoring,traditional_panel,630819,1,132,144,0
-CARLOS QUINONES,37,0,panel + cameras + monitoring + fire,traditional_panel,266100,1,382,180,1
+CARLOS QUINONES,37,0,panel + cameras + monitoring + fire,traditional_panel,266100,1,382,180,0
 MIKE AND SAMIA DELI,23,0,panel + cameras + access_control + monitoring,traditional_panel,379831,1,345,80,0
 MIKE AND SAMIA DELI,24,0,none,none,414343,1,471,0,0
 AMERICAN TAXI METERS &,29,0,panel + monitoring,traditional_panel,974185,1,302,105,0
-DR. SAI VEERA,10,1,panel + cameras + monitoring + fire,smart_panel,1745257,3,16,246,0
-MAQSOOD FAZAL,39,1,panel + monitoring,smart_panel,1617430,5,95,342,0
+DR. SAI VEERA,10,1,panel + cameras + monitoring + fire,smart_panel,1745257,3,16,246,1
+MAQSOOD FAZAL,39,1,panel + monitoring,smart_panel,1617430,5,95,342,1
 SERGEY BUSHKIN,41,0,panel + cameras + access_control + monitoring,smart_panel,706163,1,8,138,1
 PORTIA CAMPBELL,32,0,none,none,275658,1,455,0,0
 CHRIS SUTER,31,0,none,none,945265,1,408,0,0
 IRENE KOUTSODONTIS,39,0,panel + monitoring,smart_panel,444515,1,178,69,0
-ONYUWOMA IGBOKWE,38,1,panel + monitoring,smart_panel,5768843,5,55,317,0
+ONYUWOMA IGBOKWE,38,1,panel + monitoring,smart_panel,5768843,5,55,317,1
 ROSA MACK,40,0,panel + cameras + access_control + monitoring,traditional_panel,530167,1,423,156,0
 TARA BACARELLA,52,1,none,none,2113179,6,447,0,0
 THEODORE LANE,7,0,panel + monitoring,smart_panel,162085,1,236,65,0
 DR. LAWRENCE NALITT,11,0,panel + cameras + monitoring + fire,smart_panel,586995,1,45,82,0
-NICOLA EDWARDS,22,0,panel + cameras + access_control + monitoring,smart_panel,821730,1,334,198,1
-ALLSTATE,42,0,panel + cameras + monitoring,smart_panel,331335,1,77,135,1
+NICOLA EDWARDS,22,0,panel + cameras + access_control + monitoring,smart_panel,821730,1,334,198,0
+ALLSTATE,42,0,panel + cameras + monitoring,smart_panel,331335,1,77,135,0
 AHMED SANGRAB,53,0,panel only,smart_panel,750077,1,212,73,0
 MABLE BOND,15,0,panel + monitoring,traditional_panel,819958,1,53,132,0
 VIOLA RIDGES,38,0,panel + monitoring,traditional_panel,972258,1,394,182,0
-SHARLEN LIVAN,46,1,panel + cameras + monitoring,smart_panel,4634625,4,146,294,0
+SHARLEN LIVAN,46,1,panel + cameras + monitoring,smart_panel,4634625,4,146,294,1
 DIOMARIS CUEVAS,39,0,none,none,314748,1,68,0,0
 JUAN MEJIA,10,0,panel only,smart_panel,497003,1,13,95,0
 LATREICE JAMES,21,0,panel only,traditional_panel,997686,1,265,146,0
 GEFFEN GOURMET,42,0,panel + monitoring,smart_panel,963511,1,113,154,0
-KIRILL GELMAN,15,0,panel + cameras + monitoring + fire,smart_panel,570833,1,19,142,0
+KIRILL GELMAN,15,0,panel + cameras + monitoring + fire,smart_panel,570833,1,19,142,1
 JAY WILIAMS,43,0,panel + monitoring,traditional_panel,695829,1,14,155,0
 IYONNA FOURNIER,34,0,panel + cameras + monitoring + fire,traditional_panel,170749,1,357,111,0
-DORCAS EGBON,56,0,panel + cameras + access_control + monitoring,traditional_panel,801199,1,62,141,0
+DORCAS EGBON,56,0,panel + cameras + access_control + monitoring,traditional_panel,801199,1,62,141,1
 DAN MULHALL,52,1,none,none,5866709,3,427,0,0
-BERNADETTE BONAPARTE,42,0,panel + cameras + monitoring + fire,smart_panel,579157,1,279,57,1
+BERNADETTE BONAPARTE,42,0,panel + cameras + monitoring + fire,smart_panel,579157,1,279,57,0
 CATHY ROSEN,33,0,panel + cameras + access_control + monitoring,traditional_panel,926747,1,39,112,0
-EDWARD LYNCH,34,0,panel + cameras + monitoring + fire,smart_panel,546404,1,319,121,1
+EDWARD LYNCH,34,0,panel + cameras + monitoring + fire,smart_panel,546404,1,319,121,0
 JENNIFER GAGLIARDO-VIZZA,58,1,panel + cameras + access_control + monitoring,smart_panel,921976,2,94,202,1
 PEGGY WILSON,31,1,panel + monitoring,smart_panel,3177376,5,463,414,0
 CALLEGATI GIACOMO,20,1,panel + cameras + monitoring + fire,traditional_panel,2055811,4,497,571,0
-CHRISTOPHER MURPHY,59,1,panel only,traditional_panel,4901318,5,211,588,0
+CHRISTOPHER MURPHY,59,1,panel only,traditional_panel,4901318,5,211,588,1
 YOGEETA LALL,13,1,none,none,3675629,2,322,0,0
-RICHARD MARTINS,57,0,panel + cameras + monitoring + fire,smart_panel,812519,1,48,102,0
+RICHARD MARTINS,57,0,panel + cameras + monitoring + fire,smart_panel,812519,1,48,102,1
 CARMEN LORA BURKE,60,1,none,none,1009766,3,8,0,0
 ARIEL AMINOV,22,1,none,none,2288938,2,415,0,0
-EDWARD LANHAM,55,1,panel + cameras + access_control + monitoring,traditional_panel,5923990,3,365,350,0
-RUNOLAND USA INC.,49,0,panel + cameras + access_control + monitoring,traditional_panel,662508,1,118,78,0
+EDWARD LANHAM,55,1,panel + cameras + access_control + monitoring,traditional_panel,5923990,3,365,350,1
+RUNOLAND USA INC.,49,0,panel + cameras + access_control + monitoring,traditional_panel,662508,1,118,78,1
 JOYCE CHICKINI,46,0,panel + cameras + monitoring + fire,traditional_panel,928526,1,85,122,0
 DIEGO PIZARRO,41,0,none,none,866702,1,270,0,0
-MIREGE JEAN,41,0,panel + monitoring,traditional_panel,534387,1,456,95,1
+MIREGE JEAN,41,0,panel + monitoring,traditional_panel,534387,1,456,95,0
 AMY GONZALES,29,0,panel only,traditional_panel,845900,1,86,53,0
-JUSTIN KELLER,55,0,panel + cameras + monitoring + fire,smart_panel,605957,1,402,200,1
-NICHOLAS LOPEZ,52,0,panel + cameras + monitoring,smart_panel,910348,1,77,178,1
+JUSTIN KELLER,55,0,panel + cameras + monitoring + fire,smart_panel,605957,1,402,200,0
+NICHOLAS LOPEZ,52,0,panel + cameras + monitoring,smart_panel,910348,1,77,178,0
 MANUEL LOPEZ,10,1,none,none,5279476,5,279,0,0
 DIANE MANE,23,0,panel only,smart_panel,419238,1,59,85,0
 MARIA VARGAS,44,0,panel only,smart_panel,982924,1,408,128,0
 MICHELLE EUBANKS,35,0,panel only,smart_panel,450146,1,318,194,0
-JERRY DUPREE,60,1,panel + monitoring,smart_panel,5647120,4,349,280,0
+JERRY DUPREE,60,1,panel + monitoring,smart_panel,5647120,4,349,280,1
 EDDIE VEGA,35,0,panel only,smart_panel,928150,1,174,86,0
-tech designs llc,22,0,none,none,264246,1,491,0,1
+tech designs llc,22,0,none,none,264246,1,491,0,0
 CANNIBIS UNNIGAN ',38,0,panel + cameras + monitoring,smart_panel,550986,1,250,94,0
 GO FORWARD ',12,0,panel + monitoring,traditional_panel,360953,1,112,62,0
 JUNETH MEMORIAL NON PROFIT ',9,0,panel + cameras + monitoring,smart_panel,653598,1,212,78,0
 FLOWER WORLD,21,0,panel + cameras + monitoring,smart_panel,213296,1,172,130,0
-MELVIN H ',13,0,panel only,traditional_panel,658250,1,181,145,1
+MELVIN H ',13,0,panel only,traditional_panel,658250,1,181,145,0
 PETER TOBY STUDIO,38,0,panel only,smart_panel,930917,1,23,54,0
 TOBEY LLC,43,0,panel + cameras + access_control + monitoring,smart_panel,666031,1,236,150,0
-COPPER MARK COFFEE,45,0,panel only,smart_panel,856138,1,33,180,0
+COPPER MARK COFFEE,45,0,panel only,smart_panel,856138,1,33,180,1
 RED MAPLE LEAF,40,0,panel + cameras + monitoring + fire,smart_panel,900728,1,280,101,0
 KISS ME SMOKE SHOP,41,0,panel + cameras + access_control + monitoring,smart_panel,180038,1,381,84,0
-HIGHLINE GROUP,31,0,panel + cameras + monitoring + fire,smart_panel,489701,1,5,200,0
+HIGHLINE GROUP,31,0,panel + cameras + monitoring + fire,smart_panel,489701,1,5,200,1
 DELANCEY WIRELESS,39,0,panel + cameras + access_control + monitoring,smart_panel,224223,1,267,50,0
 BIG ASH,20,0,none,none,517947,1,177,0,0
 BIG ASH,54,0,panel + cameras + access_control + monitoring,traditional_panel,591075,1,53,130,1
 BODE TAILOR SHOP,6,0,panel + cameras + access_control + monitoring,traditional_panel,720381,1,31,59,0
-DELANCEY WIRELESS,47,0,panel + cameras + monitoring,traditional_panel,610529,1,194,174,1
-BIG ASH,17,0,panel + cameras + monitoring,traditional_panel,332114,1,399,200,1
-ZAZA SMOKE SHOP,42,1,panel + cameras + monitoring + fire,smart_panel,4931155,3,57,205,0
+DELANCEY WIRELESS,47,0,panel + cameras + monitoring,traditional_panel,610529,1,194,174,0
+BIG ASH,17,0,panel + cameras + monitoring,traditional_panel,332114,1,399,200,0
+ZAZA SMOKE SHOP,42,1,panel + cameras + monitoring + fire,smart_panel,4931155,3,57,205,1
 G JAZZ SMOKE SHOP,48,0,panel + monitoring,smart_panel,386005,1,325,117,0
 V1 CAPITAL,55,0,panel + cameras + monitoring,smart_panel,580123,1,77,172,0
 UBREAKIFIX,55,0,panel + monitoring,traditional_panel,750863,1,99,96,0
-FLAME ZONE CORP,56,0,panel + cameras + monitoring,traditional_panel,394589,1,341,76,1
+FLAME ZONE CORP,56,0,panel + cameras + monitoring,traditional_panel,394589,1,341,76,0
 SWEET & SOUR SMOKE SHOP,6,0,panel + cameras + access_control + monitoring,smart_panel,466208,1,181,158,0
-ELLA,48,0,panel + monitoring,smart_panel,269983,1,74,177,1
+ELLA,48,0,panel + monitoring,smart_panel,269983,1,74,177,0
 ELLA,53,0,panel + cameras + monitoring + fire,smart_panel,510355,1,204,76,0
-SWEET & SOUR SMOKE SHOP,7,0,none,none,394464,1,111,0,1
-LUNETTA PIZZA & RESTAURANT,50,0,panel + monitoring,traditional_panel,761995,1,365,86,1
+SWEET & SOUR SMOKE SHOP,7,0,none,none,394464,1,111,0,0
+LUNETTA PIZZA & RESTAURANT,50,0,panel + monitoring,traditional_panel,761995,1,365,86,0
 LUNETTA PIZZA & RESTAURANT,30,0,panel + cameras + monitoring,traditional_panel,904412,1,235,59,0
-ELLA,52,1,panel + cameras + monitoring,smart_panel,2343629,5,245,403,0
-LUNETTA PIZZA & RESTAURANT,21,0,panel + cameras + monitoring + fire,traditional_panel,706112,1,12,54,0
-THE BOILER ROOM,59,1,panel + cameras + monitoring + fire,traditional_panel,5996118,5,201,272,0
+ELLA,52,1,panel + cameras + monitoring,smart_panel,2343629,5,245,403,1
+LUNETTA PIZZA & RESTAURANT,21,0,panel + cameras + monitoring + fire,traditional_panel,706112,1,12,54,1
+THE BOILER ROOM,59,1,panel + cameras + monitoring + fire,traditional_panel,5996118,5,201,272,1
 THE MEZZAINE BY LIBERTY CHURCH,58,0,panel only,smart_panel,915831,1,437,164,0
 THE MEZZAINE BY LIBERTY CHURCH,14,1,panel + monitoring,traditional_panel,1387022,6,400,430,0
 FEWER BETTER THINGS INC.,9,0,panel + cameras + monitoring + fire,smart_panel,305429,1,117,152,0
-FEWER BETTER THINGS INC.,25,0,panel + cameras + access_control + monitoring,smart_panel,919073,1,473,86,1
-FEWER BETTER THINGS INC.,8,0,panel + cameras + monitoring + fire,smart_panel,162816,1,496,150,1
+FEWER BETTER THINGS INC.,25,0,panel + cameras + access_control + monitoring,smart_panel,919073,1,473,86,0
+FEWER BETTER THINGS INC.,8,0,panel + cameras + monitoring + fire,smart_panel,162816,1,496,150,0
 ESPACEA LLC,30,0,panel + cameras + access_control + monitoring,traditional_panel,193443,1,118,119,0
 ESPACEA LLC,16,0,panel + cameras + access_control + monitoring,smart_panel,785663,1,133,189,0
 EVOLUTIONIQ,55,0,none,none,559211,1,303,0,0
 UBREAKIFIX CHELSEA,32,0,panel + monitoring,traditional_panel,283458,1,334,192,0
-PRELOVEDLUXURYNYC.COM,38,0,panel + cameras + access_control + monitoring,traditional_panel,617484,1,296,145,1
-GARRETT LEIGHT OPTICAL,39,0,panel + monitoring,smart_panel,160796,1,496,179,1
+PRELOVEDLUXURYNYC.COM,38,0,panel + cameras + access_control + monitoring,traditional_panel,617484,1,296,145,0
+GARRETT LEIGHT OPTICAL,39,0,panel + monitoring,smart_panel,160796,1,496,179,0
 GARRETT LEIGHT OPTICAL,39,0,none,none,183538,1,147,0,0
-SHELLAC,12,0,panel + cameras + monitoring + fire,smart_panel,711014,1,86,131,1
+SHELLAC,12,0,panel + cameras + monitoring + fire,smart_panel,711014,1,86,131,0
 SHELLAC,6,1,panel only,smart_panel,5647622,4,256,567,0
-GARRETT LEIGHT OPTICAL,15,0,panel + monitoring,traditional_panel,701816,1,46,69,1
+GARRETT LEIGHT OPTICAL,15,0,panel + monitoring,traditional_panel,701816,1,46,69,0
 18 EAST,26,0,panel only,traditional_panel,685806,1,141,76,0
 BALA,20,0,panel only,smart_panel,992348,1,21,95,0
-EPIC LLC,52,0,panel + cameras + monitoring + fire,traditional_panel,181326,1,146,141,1
+EPIC LLC,52,0,panel + cameras + monitoring + fire,traditional_panel,181326,1,146,141,0
 AVANT GARDE FASHION,47,0,panel + cameras + access_control + monitoring,smart_panel,420455,1,125,139,0
 GANNI INC,28,0,none,none,421554,1,95,0,0
 AVANT GARDE FASHION,34,0,panel + cameras + monitoring,traditional_panel,610467,1,195,174,0
 MR. JOSEPHS BARBERSHOP,52,0,panel + cameras + monitoring,smart_panel,912366,1,221,151,0
-LORY LORD,16,1,panel only,traditional_panel,2399727,2,383,432,1
+LORY LORD,16,1,panel only,traditional_panel,2399727,2,383,432,0
 BOUCHERIE WEST VILLAGE,14,0,panel + cameras + monitoring + fire,smart_panel,669878,1,30,83,0
 BOUCHERIE WEST VILLAGE,19,0,panel + cameras + access_control + monitoring,traditional_panel,695130,1,449,81,0
 EN JAPANESE BRASSERIE,25,0,panel + cameras + monitoring,traditional_panel,701975,1,301,196,0
 THE VILLAGE TAVERN,29,0,panel + cameras + monitoring,smart_panel,720385,1,159,151,0
 THE VILLAGE TAVERN,9,1,panel + monitoring,smart_panel,4694059,5,376,539,0
-HOUSE OF LASAGNA,56,0,panel + cameras + access_control + monitoring,smart_panel,763816,1,49,189,0
+HOUSE OF LASAGNA,56,0,panel + cameras + access_control + monitoring,smart_panel,763816,1,49,189,1
 "HARRY G JOSEPH, INC",35,1,panel only,traditional_panel,4155995,5,486,447,0
 QUALITY BUILDING SERVICES,59,0,panel + monitoring,traditional_panel,674242,1,340,79,0
 VIC GARCIA STUDIOS,18,0,panel + cameras + access_control + monitoring,traditional_panel,640384,1,195,150,0
-VIC GARCIA STUDIOS,12,0,panel + cameras + monitoring,smart_panel,682047,1,366,57,1
+VIC GARCIA STUDIOS,12,0,panel + cameras + monitoring,smart_panel,682047,1,366,57,0
 NEW YORK ONE,31,0,panel only,traditional_panel,648827,1,42,121,0
 NEW YORK ONE,25,0,panel + cameras + monitoring,smart_panel,422204,1,12,120,0
 NEW YORK ONE,40,0,panel only,traditional_panel,169229,1,488,160,0
 CITY BICYCLE AND HOBBIES,32,1,panel + monitoring,smart_panel,2799379,3,231,329,0
-PAOLO MARTORANO,47,0,panel + cameras + monitoring + fire,smart_panel,510029,1,118,90,0
+PAOLO MARTORANO,47,0,panel + cameras + monitoring + fire,smart_panel,510029,1,118,90,1
 SMOKEZONE 2INC,23,0,panel + cameras + monitoring + fire,traditional_panel,319885,1,440,101,0
-71 C,29,0,panel + monitoring,smart_panel,267031,1,72,156,1
-BEAUTYFIX,14,1,panel + cameras + monitoring + fire,smart_panel,4694443,2,120,529,0
+71 C,29,0,panel + monitoring,smart_panel,267031,1,72,156,0
+BEAUTYFIX,14,1,panel + cameras + monitoring + fire,smart_panel,4694443,2,120,529,1
 CAROL OBRIEN,46,0,panel + cameras + monitoring,smart_panel,370630,1,167,144,0
 FARROW AND BALL,46,0,none,none,368349,1,253,0,0
-FARROW AND BALL,48,1,panel + cameras + monitoring + fire,smart_panel,5466485,5,361,393,0
+FARROW AND BALL,48,1,panel + cameras + monitoring + fire,smart_panel,5466485,5,361,393,1
 212 STEAK HOUSE INC,16,0,panel only,smart_panel,923326,1,359,55,0
-LITTLE SENEGAL INC.,55,0,panel only,smart_panel,176446,1,142,112,1
+LITTLE SENEGAL INC.,55,0,panel only,smart_panel,176446,1,142,112,0
 SKINNYS CANTINA ON THE HUDSON,26,0,panel only,traditional_panel,509396,1,74,172,0
 EDWING DANGELO ATELIER,47,0,panel + cameras + monitoring + fire,smart_panel,603012,1,33,74,0
 ADRIA,47,0,panel only,traditional_panel,664294,1,421,52,0
 ADRIA,48,0,panel + cameras + monitoring,traditional_panel,669460,1,452,85,0
 NEAT SELLING GROCERIES,8,0,panel + cameras + access_control + monitoring,smart_panel,380883,1,91,172,0
-1781 LEXINGTON GROCERY CORP,10,0,panel + cameras + monitoring + fire,smart_panel,595320,1,84,154,0
+1781 LEXINGTON GROCERY CORP,10,0,panel + cameras + monitoring + fire,smart_panel,595320,1,84,154,1
 1781 LEXINGTON GROCERY CORP,27,0,panel only,traditional_panel,946811,1,15,154,0
 1781 LEXINGTON GROCERY CORP,56,0,panel + monitoring,smart_panel,854563,1,337,134,0
 FLAVOR TASTE,42,0,panel only,smart_panel,305180,1,403,90,0
@@ -481,33 +481,33 @@ FLAVOR TASTE,42,0,panel only,smart_panel,305180,1,403,90,0
 CHLOE DAY SCHOOL,45,0,panel + monitoring,traditional_panel,748206,1,224,158,0
 HIGHTZ,41,1,panel + cameras + monitoring + fire,traditional_panel,5743462,3,336,381,0
 GOLDEN JEWELRY,24,0,panel + cameras + monitoring,traditional_panel,535578,1,476,137,0
-GOLDEN JEWELRY,36,0,panel + cameras + monitoring + fire,smart_panel,157678,1,296,131,1
+GOLDEN JEWELRY,36,0,panel + cameras + monitoring + fire,smart_panel,157678,1,296,131,0
 GOLDEN JEWELRY,38,0,panel + cameras + monitoring + fire,smart_panel,679717,1,125,179,0
-GLOW SPA,33,0,panel + cameras + monitoring + fire,smart_panel,573698,1,16,119,0
+GLOW SPA,33,0,panel + cameras + monitoring + fire,smart_panel,573698,1,16,119,1
 MARLENE TAVERAS LTD,47,0,panel + monitoring,smart_panel,302973,1,412,130,0
-BRIANNA SAI COLLECTION,32,0,panel + monitoring,smart_panel,835217,1,7,190,1
+BRIANNA SAI COLLECTION,32,0,panel + monitoring,smart_panel,835217,1,7,190,0
 SISTERS CUISINE,54,0,panel + cameras + access_control + monitoring,smart_panel,400161,1,268,114,0
-65 NASSAU CONVENIENCE 2 CORP,57,0,panel + cameras + access_control + monitoring,traditional_panel,906495,1,122,117,0
-65 NASSAU CONVENIENCE 2 CORP,18,0,panel + cameras + access_control + monitoring,traditional_panel,189127,1,243,161,1
+65 NASSAU CONVENIENCE 2 CORP,57,0,panel + cameras + access_control + monitoring,traditional_panel,906495,1,122,117,1
+65 NASSAU CONVENIENCE 2 CORP,18,0,panel + cameras + access_control + monitoring,traditional_panel,189127,1,243,161,0
 SHAKESPEARE AND COMPANY,50,0,panel + monitoring,smart_panel,610699,1,233,67,0
-THIRD AVE ALEHOUSE,31,0,panel + cameras + access_control + monitoring,smart_panel,940362,1,126,163,0
+THIRD AVE ALEHOUSE,31,0,panel + cameras + access_control + monitoring,smart_panel,940362,1,126,163,1
 LIAIGRE INC.,9,0,panel + cameras + monitoring + fire,smart_panel,654343,1,141,55,0
-REPUBLIC,60,0,none,none,611675,1,49,0,1
+REPUBLIC,60,0,none,none,611675,1,49,0,0
 TAMGY,10,0,panel + cameras + access_control + monitoring,traditional_panel,301728,1,345,74,0
-BUD N BUDDER,11,1,panel only,smart_panel,3171682,6,202,531,1
+BUD N BUDDER,11,1,panel only,smart_panel,3171682,6,202,531,0
 RS01 TRADERS INC,44,1,panel + cameras + monitoring,traditional_panel,1554203,5,375,296,0
 CROSS RESTAURANT LTD,10,1,panel + cameras + monitoring,smart_panel,4419782,5,367,341,0
-CROSS RESTAURANT LTD,51,0,panel + cameras + access_control + monitoring,traditional_panel,605766,1,39,171,1
-GOLFV2,40,0,panel + cameras + monitoring + fire,traditional_panel,321461,1,347,126,1
+CROSS RESTAURANT LTD,51,0,panel + cameras + access_control + monitoring,traditional_panel,605766,1,39,171,0
+GOLFV2,40,0,panel + cameras + monitoring + fire,traditional_panel,321461,1,347,126,0
 GOLFV2,48,0,panel + cameras + monitoring + fire,traditional_panel,277826,1,467,151,0
-CIAO BY CC,52,1,panel + cameras + monitoring,smart_panel,1955757,3,143,229,0
+CIAO BY CC,52,1,panel + cameras + monitoring,smart_panel,1955757,3,143,229,1
 GOLFV2,6,0,panel + monitoring,smart_panel,681091,1,333,124,0
 GOLFV2,7,1,panel + cameras + monitoring + fire,traditional_panel,1504150,3,399,342,0
-MITSUBISHI BODY SHOP,24,0,panel only,smart_panel,670903,1,383,122,1
-EMME,20,0,panel + cameras + access_control + monitoring,traditional_panel,374652,1,449,51,1
+MITSUBISHI BODY SHOP,24,0,panel only,smart_panel,670903,1,383,122,0
+EMME,20,0,panel + cameras + access_control + monitoring,traditional_panel,374652,1,449,51,0
 ICE CREAM,23,0,none,none,548728,1,147,0,0
-ICE CREAM,42,1,panel + cameras + access_control + monitoring,smart_panel,1721823,2,50,300,0
-THOCAR HOLDINGS,49,1,none,none,2812089,5,32,0,1
+ICE CREAM,42,1,panel + cameras + access_control + monitoring,smart_panel,1721823,2,50,300,1
+THOCAR HOLDINGS,49,1,none,none,2812089,5,32,0,0
 THOCAR HOLDINGS,11,1,panel only,traditional_panel,2419177,5,445,590,0
 ROSAS STEAKHOUSE,38,1,panel only,traditional_panel,4031885,5,463,473,0
 ROSAS STEAKHOUSE,46,0,none,none,539278,1,272,0,0
@@ -517,15 +517,15 @@ LITTLE ROCK BAPTIST CHURCH,16,0,none,none,205481,1,207,0,0
 LITTLE ROCK BAPTIST CHURCH,41,0,panel + monitoring,smart_panel,705566,1,342,189,0
 95TH STREET PHARMA CORP,28,0,panel + cameras + monitoring + fire,traditional_panel,240182,1,102,54,0
 NEW YORK MEDS - DEPARTMENT WITHIN,14,0,panel + monitoring,smart_panel,374287,1,195,72,0
-95TH STREET PHARMA CORP,60,0,panel + cameras + monitoring,smart_panel,741926,1,489,86,1
+95TH STREET PHARMA CORP,60,0,panel + cameras + monitoring,smart_panel,741926,1,489,86,0
 95TH STREET PHARMA CORP,59,1,none,none,1924182,3,483,0,0
 EDGAR JEWELRY,20,1,panel + cameras + access_control + monitoring,traditional_panel,3176606,4,397,262,0
 DOPEBOYS,19,0,panel + monitoring,smart_panel,340409,1,403,114,0
 FOOT PRINTS CAFE,48,0,panel + cameras + monitoring,smart_panel,935234,1,477,60,0
-OSOA GROCERY FOOD INC,23,0,panel + cameras + monitoring + fire,smart_panel,286452,1,29,161,0
+OSOA GROCERY FOOD INC,23,0,panel + cameras + monitoring + fire,smart_panel,286452,1,29,161,1
 VERAS RESTAURANT HOLDINGS,39,0,panel + cameras + access_control + monitoring,traditional_panel,205092,1,437,121,0
-DEXOTICLAB LLC,50,0,panel + monitoring,traditional_panel,517174,1,442,67,1
-DEXOTICLAB LLC,13,0,none,none,176375,1,6,0,1
+DEXOTICLAB LLC,50,0,panel + monitoring,traditional_panel,517174,1,442,67,0
+DEXOTICLAB LLC,13,0,none,none,176375,1,6,0,0
 YVONNE DALEY,8,0,panel + cameras + monitoring,traditional_panel,775017,1,343,169,0
 ARACELY DELI & GROCORY,26,1,panel + monitoring,traditional_panel,906044,5,228,448,0
 ARACELY DELI & GROCORY,38,0,none,none,551474,1,469,0,0
@@ -540,7 +540,7 @@ ALIVE HERBALS II CORP,59,0,none,none,748758,1,211,0,0
 ATLANTIC TERRACE,6,0,panel + monitoring,traditional_panel,331480,1,62,135,0
 ATLANTIC TERRACE,45,0,panel + cameras + access_control + monitoring,smart_panel,995045,1,348,69,0
 L.A CAFETERIA,38,1,none,none,4048661,5,59,0,0
-NORTH STAR MARKET,10,0,panel + monitoring,smart_panel,465250,1,462,198,1
+NORTH STAR MARKET,10,0,panel + monitoring,smart_panel,465250,1,462,198,0
 PRESSED STUDIO,45,0,none,none,859527,1,56,0,0
 DORETHA DICKENS,26,0,panel + cameras + monitoring,smart_panel,767800,1,450,196,0
 ELIZABETH WILLIAMS,30,0,panel + cameras + monitoring + fire,smart_panel,427112,1,285,71,0
@@ -552,34 +552,34 @@ MAJESTY CONVENIENCE,21,0,panel + cameras + monitoring,traditional_panel,597666,1
 LAKISHA HAWTHORNE,34,0,panel + monitoring,smart_panel,585537,1,64,99,0
 THERESA HEARNS,51,0,panel + cameras + monitoring,traditional_panel,887905,1,131,106,0
 ELAIN BROWN,33,1,panel only,traditional_panel,2247817,5,383,531,0
-EFLM,51,1,panel + cameras + access_control + monitoring,traditional_panel,3615890,6,414,434,0
+EFLM,51,1,panel + cameras + access_control + monitoring,traditional_panel,3615890,6,414,434,1
 LOUD PACK,56,0,panel + monitoring,smart_panel,728624,1,261,84,0
 185 MALTA CAR SERVICE,22,0,panel only,smart_panel,520876,1,194,97,0
-BLACK WINGS LUXURY BOUTIQUE,18,1,none,none,3228022,2,313,0,1
+BLACK WINGS LUXURY BOUTIQUE,18,1,none,none,3228022,2,313,0,0
 BE ELECTRIC STUDIIOS,16,0,panel + cameras + access_control + monitoring,smart_panel,404799,1,406,148,0
 BLACK WINGS LUXURY BOUTIQUE,27,0,panel + cameras + access_control + monitoring,traditional_panel,405989,1,157,198,0
 BLACK WINGS LUXURY BOUTIQUE,48,0,panel + cameras + monitoring,traditional_panel,359560,1,345,192,0
 B ELECTRIC,30,0,panel + cameras + monitoring,smart_panel,510314,1,26,65,0
-GRILL DELI CORP,27,0,panel only,smart_panel,785957,1,175,192,1
+GRILL DELI CORP,27,0,panel only,smart_panel,785957,1,175,192,0
 ZAYTOONS - VANDERBILT,14,0,none,none,792323,1,428,0,0
-HERRICK GOLDMAN,23,0,panel + monitoring,traditional_panel,315039,1,48,81,1
-DRIP WITH MONTANA,31,1,panel + monitoring,smart_panel,2749720,6,104,556,0
+HERRICK GOLDMAN,23,0,panel + monitoring,traditional_panel,315039,1,48,81,0
+DRIP WITH MONTANA,31,1,panel + monitoring,smart_panel,2749720,6,104,556,1
 EZE PAWS,35,1,panel + cameras + access_control + monitoring,traditional_panel,2049933,6,202,575,0
 WALLS & HALLS,42,0,panel + cameras + access_control + monitoring,traditional_panel,796029,1,226,170,0
 WALLS & HALLS,12,0,panel only,traditional_panel,537768,1,422,67,0
 456 CONVENIENCE,13,0,none,none,296816,1,104,0,0
 MADHAVAN PADMAKUMAR,22,0,panel + cameras + monitoring + fire,smart_panel,406039,1,458,163,0
-HEMA MANGAL,20,0,panel + monitoring,traditional_panel,720929,1,421,131,1
+HEMA MANGAL,20,0,panel + monitoring,traditional_panel,720929,1,421,131,0
 SUREXPRESS COURIER & CARGO,27,0,panel only,smart_panel,924606,1,192,153,0
-SUREXPRESS COURIER & CARGO,59,1,panel + cameras + access_control + monitoring,traditional_panel,4985296,3,264,374,0
-METAMORPHOSIS AESTHETICS INC,58,0,panel + cameras + access_control + monitoring,traditional_panel,599770,1,191,130,1
+SUREXPRESS COURIER & CARGO,59,1,panel + cameras + access_control + monitoring,traditional_panel,4985296,3,264,374,1
+METAMORPHOSIS AESTHETICS INC,58,0,panel + cameras + access_control + monitoring,traditional_panel,599770,1,191,130,0
 METAMORPHOSIS AESTHETICS INC,51,0,panel + cameras + monitoring + fire,smart_panel,786447,1,391,195,0
 METAMORPHOSIS AESTHETICS INC,58,1,none,none,2191953,5,113,0,0
-PLANET HOBBYWOOD,15,0,panel + cameras + monitoring,smart_panel,796588,1,161,158,1
+PLANET HOBBYWOOD,15,0,panel + cameras + monitoring,smart_panel,796588,1,161,158,0
 MUJTABA WOMENS HEALTH,59,0,none,none,256743,1,102,0,0
 MUJTABA WOMENS HEALTH,20,0,panel + cameras + monitoring,traditional_panel,739444,1,74,172,0
 MUJTABA WOMENS HEALTH,26,0,panel only,smart_panel,869604,1,91,54,0
-LA TAMALETIA COLOMBIANA,6,0,panel + cameras + monitoring,traditional_panel,354852,1,42,63,1
+LA TAMALETIA COLOMBIANA,6,0,panel + cameras + monitoring,traditional_panel,354852,1,42,63,0
 LA TAMALETIA COLOMBIANA,16,0,panel + cameras + access_control + monitoring,traditional_panel,569762,1,394,157,0
 LA TAMALETIA COLOMBIANA,10,1,panel only,smart_panel,3493799,6,368,379,0
 MISS FASHIONISTA NY LLC,24,0,panel only,smart_panel,777594,1,286,181,0
@@ -587,11 +587,11 @@ RODOLFO ABUSTAN,28,0,panel + monitoring,traditional_panel,766723,1,281,138,0
 SSC GROUP LLC.,57,0,panel + cameras + monitoring + fire,smart_panel,153627,1,445,85,0
 SSC GROUP LLC.,51,0,panel + cameras + monitoring,smart_panel,813310,1,76,76,0
 THE BIG APPLE CONVENIENCE,7,0,panel + monitoring,traditional_panel,888664,1,92,108,0
-ROSENDO CARGO CORP,8,0,panel + cameras + monitoring + fire,traditional_panel,836877,1,288,189,1
+ROSENDO CARGO CORP,8,0,panel + cameras + monitoring + fire,traditional_panel,836877,1,288,189,0
 69 PIZZERIA,25,0,panel + monitoring,smart_panel,683668,1,440,106,0
 DENTAL 365,15,1,panel + cameras + monitoring + fire,traditional_panel,1506586,5,195,257,0
 MYRTLE RX PLUS INC,39,1,panel + monitoring,smart_panel,4819259,6,191,209,0
-EUROPEAN TASTE,54,0,panel only,traditional_panel,384601,1,31,51,1
+EUROPEAN TASTE,54,0,panel only,traditional_panel,384601,1,31,51,0
 MYRTLE RX PLUS INC,31,0,panel + monitoring,traditional_panel,890522,1,472,60,0
 MYRTLE RX PLUS INC,19,0,panel + cameras + monitoring + fire,smart_panel,842671,1,427,162,0
 EUROPEAN TASTE,51,1,none,none,3895638,5,299,0,0
@@ -603,94 +603,94 @@ FAST TRACK EXPRESS,35,0,panel only,smart_panel,551395,1,188,178,0
 HIS AND HERS DELI,33,1,panel only,traditional_panel,3211807,3,482,318,0
 DENTAL SMILE PC,20,0,panel + cameras + access_control + monitoring,smart_panel,767656,1,483,108,0
 KIDS TREEHOUSE KLUB,19,1,panel + cameras + monitoring,smart_panel,1038263,4,390,443,0
-BIENCURLS,58,0,none,none,458536,1,354,0,1
+BIENCURLS,58,0,none,none,458536,1,354,0,0
 SKY HIGH EXOTIC,49,0,panel only,traditional_panel,827726,1,35,61,0
-METFOOD SUPERMARKET,18,0,panel + cameras + monitoring,smart_panel,258603,1,378,167,1
+METFOOD SUPERMARKET,18,0,panel + cameras + monitoring,smart_panel,258603,1,378,167,0
 101 DELI,8,0,panel only,smart_panel,444229,1,9,147,0
-LASSI LOUNGE,47,0,none,none,550034,1,22,0,1
-LASSI LOUNGE,19,0,panel + cameras + monitoring + fire,smart_panel,368791,1,314,63,1
-LILYS PHARMACY,38,0,panel + cameras + monitoring + fire,traditional_panel,844573,1,30,168,0
+LASSI LOUNGE,47,0,none,none,550034,1,22,0,0
+LASSI LOUNGE,19,0,panel + cameras + monitoring + fire,smart_panel,368791,1,314,63,0
+LILYS PHARMACY,38,0,panel + cameras + monitoring + fire,traditional_panel,844573,1,30,168,1
 KHAN ACCOUNTING SOLUTIO,10,0,panel + cameras + access_control + monitoring,traditional_panel,947894,1,289,85,0
-ISLAND FUSION CARIBBEAN RESTAURANT,58,1,panel + cameras + monitoring,smart_panel,3022951,2,208,378,0
+ISLAND FUSION CARIBBEAN RESTAURANT,58,1,panel + cameras + monitoring,smart_panel,3022951,2,208,378,1
 718 AUTO PERFORMANCE,29,0,panel + monitoring,smart_panel,594179,1,302,115,0
-CAMELIE OGE,18,1,panel + monitoring,smart_panel,1814641,4,133,294,0
+CAMELIE OGE,18,1,panel + monitoring,smart_panel,1814641,4,133,294,1
 ORIGINAL PRODUCTION INC,12,0,panel + cameras + access_control + monitoring,smart_panel,359823,1,414,125,0
 ORIGINAL PRODUCTION INC,47,0,panel only,smart_panel,899599,1,327,78,0
-GRAY GROCERY CORP,53,0,panel + monitoring,traditional_panel,668210,1,88,63,1
-GRAY GROCERY CORP,42,0,panel + cameras + access_control + monitoring,traditional_panel,276983,1,286,87,1
-SUGA & CO,55,0,panel only,traditional_panel,360909,1,393,71,1
+GRAY GROCERY CORP,53,0,panel + monitoring,traditional_panel,668210,1,88,63,0
+GRAY GROCERY CORP,42,0,panel + cameras + access_control + monitoring,traditional_panel,276983,1,286,87,0
+SUGA & CO,55,0,panel only,traditional_panel,360909,1,393,71,0
 YASA,54,1,panel only,traditional_panel,2024850,3,298,593,0
-ROCKAWAY PRODUCTIONS MULTI INC,27,1,panel + cameras + monitoring,traditional_panel,2115069,2,210,325,1
-OB DELI,43,1,panel + cameras + access_control + monitoring,traditional_panel,4371089,5,131,286,0
+ROCKAWAY PRODUCTIONS MULTI INC,27,1,panel + cameras + monitoring,traditional_panel,2115069,2,210,325,0
+OB DELI,43,1,panel + cameras + access_control + monitoring,traditional_panel,4371089,5,131,286,1
 CONEY ISLAND AUTO PARTS,18,0,panel + cameras + monitoring,traditional_panel,802170,1,322,52,0
-SOPHIA CAMPBELL-MILLER,10,0,panel + cameras + monitoring + fire,smart_panel,931680,1,313,54,1
+SOPHIA CAMPBELL-MILLER,10,0,panel + cameras + monitoring + fire,smart_panel,931680,1,313,54,0
 AFTAB SUPERMARKET,38,0,panel only,traditional_panel,183680,1,398,96,0
 GREAT SUCCESS REALTY,27,0,panel + monitoring,smart_panel,681751,1,259,185,0
 JEANNA BOYNTON,40,0,panel only,traditional_panel,591920,1,418,122,0
 ABC GENESSEE LLC,48,0,panel + cameras + monitoring + fire,traditional_panel,681096,1,268,146,0
 ABC GENESSEE LLC,28,0,panel + cameras + access_control + monitoring,traditional_panel,788764,1,231,74,0
-TECH CELL SOLUTIONS,32,0,panel + cameras + access_control + monitoring,smart_panel,856799,1,432,60,1
+TECH CELL SOLUTIONS,32,0,panel + cameras + access_control + monitoring,smart_panel,856799,1,432,60,0
 City Gourmet Market,17,0,panel + cameras + monitoring + fire,traditional_panel,865994,1,105,156,0
-Anytime,54,0,panel only,smart_panel,389199,1,363,96,1
-Jose M.,49,0,panel + cameras + access_control + monitoring,smart_panel,280543,1,89,115,0
-Plugtheworld,52,1,none,none,2453276,6,400,0,1
+Anytime,54,0,panel only,smart_panel,389199,1,363,96,0
+Jose M.,49,0,panel + cameras + access_control + monitoring,smart_panel,280543,1,89,115,1
+Plugtheworld,52,1,none,none,2453276,6,400,0,0
 winfu corp,24,0,panel + monitoring,smart_panel,808826,1,399,99,0
-John Derian Company,60,0,panel + cameras + monitoring + fire,smart_panel,206354,1,73,186,0
+John Derian Company,60,0,panel + cameras + monitoring + fire,smart_panel,206354,1,73,186,1
 THE BOILER ROOM,27,0,panel + cameras + monitoring,smart_panel,841929,1,201,51,0
 Glory Gems,20,0,panel + monitoring,smart_panel,219610,1,362,113,0
 Everflow Plumbing & Htg Corp,12,0,panel only,smart_panel,885673,1,315,51,0
-Fusalp,6,1,none,none,4681447,5,490,0,1
+Fusalp,6,1,none,none,4681447,5,490,0,0
 GARRETT LEIGHT OPTICAL,42,0,panel only,traditional_panel,882066,1,141,51,0
 MAtter,18,0,panel only,traditional_panel,572552,1,7,82,0
 Cybex,36,1,panel + cameras + monitoring,smart_panel,5812170,3,286,494,0
-BROOKLYN FINEART LLC,29,0,panel only,traditional_panel,659195,1,98,154,1
+BROOKLYN FINEART LLC,29,0,panel only,traditional_panel,659195,1,98,154,0
 TRIBECA VETERINARY WELLNESS,48,0,panel only,smart_panel,518185,1,43,56,0
 m5,57,0,panel only,smart_panel,864047,1,268,129,0
 Healthclub,10,0,panel + cameras + monitoring,traditional_panel,510794,1,40,56,0
-UNITED IN CHRISTIPHER,31,0,panel + cameras + monitoring,smart_panel,488338,1,103,101,1
+UNITED IN CHRISTIPHER,31,0,panel + cameras + monitoring,smart_panel,488338,1,103,101,0
 PEORI INC,45,0,panel + cameras + monitoring,smart_panel,198301,1,150,59,0
 TBA,56,0,none,none,472270,1,86,0,0
 Podcast,17,0,none,none,217051,1,418,0,0
 Yorkvest,33,0,panel only,traditional_panel,184698,1,334,193,0
 Igal,19,1,panel + cameras + monitoring + fire,traditional_panel,1246458,4,166,446,0
 Pure Dental Care,37,0,panel + cameras + monitoring + fire,traditional_panel,566807,1,33,76,1
-Aca,45,0,panel only,traditional_panel,971707,1,473,162,1
+Aca,45,0,panel only,traditional_panel,971707,1,473,162,0
 Gilded Ritual,27,1,none,none,2003058,2,326,0,0
-Boongs Chicken,10,0,none,none,266381,1,308,0,1
+Boongs Chicken,10,0,none,none,266381,1,308,0,0
 BEAUTYFIX,55,0,panel + cameras + monitoring + fire,traditional_panel,521844,1,494,166,0
 34 EAST 67TH ST CORP,24,0,panel + monitoring,traditional_panel,523130,1,419,86,0
 MISSION OF JORDAN,49,0,panel + cameras + monitoring,smart_panel,898061,1,124,155,0
-Anthony Conti,56,0,none,none,755559,1,430,0,1
+Anthony Conti,56,0,none,none,755559,1,430,0,0
 LA MATERNELLE,14,0,none,none,918861,1,271,0,0
 Green Mandala 2 LLC,6,0,none,none,778590,1,245,0,0
 Village Square Pizza,8,0,panel + cameras + access_control + monitoring,smart_panel,944484,1,202,102,0
-1165 Madison Ave Phcd Trust,60,1,none,none,3402252,4,287,0,1
+1165 Madison Ave Phcd Trust,60,1,none,none,3402252,4,287,0,0
 Miss Nails,21,0,panel + cameras + monitoring + fire,traditional_panel,355060,1,378,126,0
-THE SHADE STORE - MADISON AVE,20,1,panel + monitoring,traditional_panel,990575,3,148,339,0
-TBA,49,0,panel + cameras + monitoring,smart_panel,312559,1,282,90,1
+THE SHADE STORE - MADISON AVE,20,1,panel + monitoring,traditional_panel,990575,3,148,339,1
+TBA,49,0,panel + cameras + monitoring,smart_panel,312559,1,282,90,0
 Playa Bowls,46,1,panel + cameras + monitoring + fire,traditional_panel,2059920,3,368,439,1
-LEAD BY EXAMPLE,48,0,panel + monitoring,traditional_panel,801841,1,344,171,1
+LEAD BY EXAMPLE,48,0,panel + monitoring,traditional_panel,801841,1,344,171,0
 BLESSED COUTRUE INC.,58,0,none,none,466092,1,253,0,0
 BLESS COUTURE,42,1,panel + cameras + access_control + monitoring,traditional_panel,4415418,5,394,345,0
 Monica Paulino,35,0,none,none,389874,1,311,0,0
 Valley Kitchens & Bath Inc,29,1,panel + cameras + monitoring + fire,traditional_panel,3242062,3,203,225,0
-Pitayeero,57,0,panel + cameras + access_control + monitoring,smart_panel,582863,1,200,125,1
+Pitayeero,57,0,panel + cameras + access_control + monitoring,smart_panel,582863,1,200,125,0
 La Mode Cleaners,53,0,none,none,155504,1,89,0,0
 Nail Mood Beauty Lounge,33,1,panel only,traditional_panel,4932062,4,316,557,1
-Collezione NY LLC,35,1,panel + monitoring,smart_panel,4668897,4,88,218,0
-MMZ,48,1,panel only,traditional_panel,3575612,3,216,489,0
+Collezione NY LLC,35,1,panel + monitoring,smart_panel,4668897,4,88,218,1
+MMZ,48,1,panel only,traditional_panel,3575612,3,216,489,1
 Imperial Parking Systems Inc,55,0,panel + monitoring,smart_panel,240451,1,470,122,0
 Clutch,27,0,none,none,538932,1,365,0,0
 A & A Imported Motors Inc,47,0,none,none,753360,1,353,0,0
 A Nonymous,48,0,none,none,587409,1,472,0,0
-Tenants Corp,22,0,panel only,smart_panel,404936,1,19,124,1
+Tenants Corp,22,0,panel only,smart_panel,404936,1,19,124,0
 Lucia Of Ues,35,0,panel + cameras + access_control + monitoring,traditional_panel,698179,1,278,106,0
-DAVID ZIFF COOKING INC,49,0,panel + cameras + access_control + monitoring,smart_panel,839499,1,422,160,1
+DAVID ZIFF COOKING INC,49,0,panel + cameras + access_control + monitoring,smart_panel,839499,1,422,160,0
 steinway giftshop corporation,33,0,panel + cameras + monitoring + fire,smart_panel,661469,1,396,68,0
-Three-to-Five Program,24,0,panel + cameras + monitoring + fire,traditional_panel,357915,1,203,102,1
+Three-to-Five Program,24,0,panel + cameras + monitoring + fire,traditional_panel,357915,1,203,102,0
 Aze pharmacy,55,0,panel + cameras + access_control + monitoring,traditional_panel,914451,1,424,193,0
-Monroe Building,24,1,panel + monitoring,traditional_panel,2687821,5,74,358,0
-OMM Pharmacy,35,0,panel + cameras + monitoring,smart_panel,952104,1,26,90,0
+Monroe Building,24,1,panel + monitoring,traditional_panel,2687821,5,74,358,1
+OMM Pharmacy,35,0,panel + cameras + monitoring,smart_panel,952104,1,26,90,1
 Sai Apteka Pharmacy,43,0,panel + cameras + access_control + monitoring,smart_panel,796560,1,84,156,0
 top wireless & repair corp.,45,0,panel only,smart_panel,945823,1,84,56,0
 TJ Mobile LLC,54,1,panel + monitoring,smart_panel,1475212,2,492,387,0
